@@ -1,4 +1,8 @@
 granasatClient
+
+Paquetes necesarios para compilar:
+ sudo apt-get install libgtk-3-dev
+ 
 ========================================================================
 ![GranaSAT](https://cloud.githubusercontent.com/assets/3924815/3865957/261cbb64-1fb6-11e4-8724-823485676743.jpg)
 ========================================================================
